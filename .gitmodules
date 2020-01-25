@@ -1,0 +1,6 @@
+[submodule "arava_app"]
+	path = arava_app
+	url = https://github.com/dogganidhal/arava-app
+[submodule "arava-backend"]
+	path = arava-backend
+	url = https://github.com/dogganidhal/arava-backend
