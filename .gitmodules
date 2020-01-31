@@ -4,3 +4,6 @@
 [submodule "arava-backend"]
 	path = arava-backend
 	url = https://github.com/dogganidhal/arava-backend
+[submodule "arava-admin"]
+	path = arava-admin
+	url = https://github.com/dogganidhal/arava-admin.git
